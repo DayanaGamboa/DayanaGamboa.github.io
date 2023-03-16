@@ -66,6 +66,7 @@ h2{
   text-align: center;
   font-size: 5rem; 
   color: var(--blanco);
+  text-shadow: 3px 2px 1px black;
 }
 .marca span {
   color: #cf751a;
@@ -101,12 +102,14 @@ h2{
   font-weight: 700;
   padding: 1rem;
   z-index: 1;
+  text-shadow: 3px 2px 1px black;
 }
 .navegacion-principal  > a:hover{
  
   background-blend-mode: var(--primario);
   background-color: var(--primario);
-  color: var(--oscuro);
+  color: var(--blanco);
+  box-shadow: -4px 3px 5px 0px rgba(0,0,0,0.75);
   transition: .4s;
 }
 @media(min-width: 768px) {
@@ -117,6 +120,11 @@ h2{
     column-gap: 2rem;
   }
 }
+
+.contenedor h2 {
+  text-shadow: 3px 2px 1px black;
+}
+
 .see-more {
     display: flex;
     justify-content: space-evenly;
