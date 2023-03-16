@@ -50,7 +50,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 200px;
+    height: 250px;
     flex: 0 0 calc(60%);
 }
 @media(min-width: 768px) {

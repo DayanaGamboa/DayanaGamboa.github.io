@@ -109,6 +109,16 @@ h2{
   color: var(--oscuro);
   transition: .4s;
 }
+.sombra1{
+  -webkit-box-shadow: 21px 5px 15px 0px rgba(0,0,0,0.48);
+  -moz-box-shadow: 21px 5px 15px 0px rgba(0,0,0,0.48);
+  box-shadow: 21px 5px 15px 0px rgba(0,0,0,0.48);
+  padding: 7rem;
+}
+.contenedor1{
+  max-width: 125rem;
+  margin: 0 auto;
+}
 @media(min-width: 768px) {
   .infoCont{
     display: grid;
