@@ -25,7 +25,7 @@ html{
 body {
 
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(to right,#070117,#200340);
+    background: linear-gradient(to right,#070117,#15022a);
 }
 p{
   color: var(--blanco); 
