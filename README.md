@@ -2,6 +2,8 @@
 ```
 Asignación basada en la creación de dos páginas web enlazadas
 ```
+- Login/Sign In
+- Portafolio
 <h1 align="center">
     Desarrolladores
 </h1>
